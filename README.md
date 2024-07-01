@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jasper Maack</h1>
 <h3 align="center">I'm 15 years old and I'm currently learning Javascript</h3>
+<p align="right"> <img width="400" src="coffee-animation.gif"> </p>
 
-<div>
 - 🌱 I’m currently learning **JS**
 
 - 📫 How to reach me **jasper.maack2009@gmail.com**
 
 - ⚡ Fun fact **I'm a Papaplatte Viewer ☠**
-
-<p align="right"> <img width="400" src="coffee-animation.gif"> </p>
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jappacodes&show_icons=true&locale=en&layout=compact" alt="jappacodes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jappacodes&show_icons=true&locale=en" alt="jappacodes" /></p>
-
