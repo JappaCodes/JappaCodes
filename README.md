@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jasper Maack</h1>
 <h3 align="center">I'm 15 years old and i love to programm in my freetime, currently i'm learning Javascript</h3>
-<p align="right"> <img width="400" src="coffee-animation.gif"> </p>
+<img align="right" width="400" src="coffee-animation.gif">
 
 <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=jappacodes&label=Profile%20views&color=0e75b6&style=flat" alt="jappacodes" /> </p>
