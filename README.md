@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jasper Maack</h1>
 <h3 align="center">I'm 15 years old and I'm currently learning Javascript</h3>
 <p align="right"> <img width="400" src="coffee-animation.gif"> </p>
-
+<div>
 - 🌱 I’m currently learning **JS**
 
 - 📫 How to reach me **jasper.maack2009@gmail.com**
@@ -9,6 +9,7 @@
 - ⚡ Fun fact **I'm a Papaplatte Viewer ☠**
 
 <p align="right"> <img width="400" src="coffee-animation.gif"> </p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
